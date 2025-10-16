@@ -1,41 +1,5 @@
-# Real-Time-Face-Mask-Detection
+# Face Mask Detection Using Transfer Learning
 
-## SSDMNV2: Single Shot Multibox Detector and MobileNetV2
-Developed lightweight MobileNetV2 face mask detection model for identifying a person wearing a mask or not with an accuracy of 92.64% and f1 score of 0.93%.
-
-## Demonstration of Project:
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/47279598/123558600-c7235a00-d7b4-11eb-876d-73d1ec19b1bf.gif" />
-</p>
-
-
-### Link for Research Paper: https://www.sciencedirect.com/science/article/pii/S2210670720309070#bib0195
-### Contributed in other researches: https://scholar.google.com/citations?user=73b_WZcAAAAJ&hl=en
-### Link to Download Complete Dataset: https://github.com/TheSSJ2612/Real-Time-Medical-Mask-Detection/releases/download/v0.1/Dataset.zip
-
-## How to use?
-1. Download the required files into a directory if your choice.
-2. Open required codes in Jupyter Notebook.  
-3. Install the dependencies as mentioned in code.
-4. Execute the code.
-5. Press 'q' to exit from real time video detection.
-6. Done
-
-## Table of Contents: 
-1. [Abstract](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#1-abstract)
-2. [Motivation](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#2-motivation)
-3. [Problem Statement](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#3-problem-statement)
-4. [Introduction](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#4-introduction)
-5. [Requirements](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#5-requirements)
-6. [Dataset Creation](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#6-dataset-creation)
-7. [Generic Methodology](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#7-generic-methodology)
-8. [Results](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#8-results)
-9. [Comparison with other model](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#9-comparison-with-other-model)
-10. [Summary and Conclusion](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#10-summary-and-conclusion)
-11. [Limitations](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#11-limitations-challenges-faced-during-the-project)
-12. [Future Scope](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#12-future-scope)
-13. [Credits](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#13-credits)
-14. [License](https://github.com/Piyush2912/Real-Time-Face-Mask-Detection#14-license)
 
 ## 1. Abstract
 - This project is concerned with the detection of face masks.
