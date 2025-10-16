@@ -187,4 +187,4 @@ Thanking my project teammates for caring and supporting me wholeheartedly. The r
 </div>
 
 ## 14. License: 
-- Apache License 2.0
+- MIT License
