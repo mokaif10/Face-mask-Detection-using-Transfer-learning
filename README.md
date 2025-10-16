@@ -1,1 +1,1 @@
-# Face-mask-Detection-using-Transfer-learning
+# Face mask Detection using Transfer learning
